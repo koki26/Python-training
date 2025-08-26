@@ -4,11 +4,12 @@ A diverse set of Python tools and applications for various purposes, from produc
 This repository was made just to pratice python coding so feel free to use any of this code :).
 
 ## 🔧 Requirements
-Python 3.6+
-External packages:
-    - requests
-    - python-dotenv
-    - colorama
+- Python 3.6+
+
+**External packages:**
+- requests
+- python-dotenv
+- colorama
 
 ## 📦 Projects Overview
 
@@ -48,7 +49,7 @@ A class-based RPG adventure with combat, inventory, and exploration.
 ```bash
 pip install colorama
 ```
-### 🔐 Password Generator (pass_gen.py)
+### 🔐 Password Generator (`pass_gen.py`)
 Generate secure random passwords with customizable length.
 
 **Features:**
