@@ -48,7 +48,7 @@ A class-based RPG adventure with combat, inventory, and exploration.
 ```bash
 pip install colorama
 ```
-**🔐 Password Generator (pass_gen.py)**
+### 🔐 Password Generator (pass_gen.py)
 Generate secure random passwords with customizable length.
 
 **Features:**
